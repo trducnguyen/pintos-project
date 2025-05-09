@@ -1,0 +1,15 @@
+# Object files
+*.o
+*.d
+
+# Build directories
+src/**/build/
+src/**/obj/
+
+# Editor files
+*~
+.vscode/
+*.swp
+
+# Pintos logs
+pintos.lock
